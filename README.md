@@ -3,6 +3,8 @@ directsound example for VisualFBEditor
 
 ## capturesound
 
+This project needs to rely on MDINotepad/text.bi
+
 ![capturesound](https://github.com/chunmingwang/directsound/assets/35757455/482a672e-cdd3-453a-9e61-61c964a5423c)
 
 ## enumdevices
