@@ -1,4 +1,4 @@
-# directsound
+# directsound preview
 directsound example for VisualFBEditor
 
 ## capturesound
