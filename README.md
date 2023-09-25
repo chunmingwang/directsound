@@ -36,3 +36,8 @@ This project needs to rely on MDINotepad/text.bi
 4. triangular wave
 
 ![wave_triangular](https://github.com/chunmingwang/directsound/assets/35757455/080d4c4b-f32f-45a2-b7f1-252e65a17abb)
+
+## soundfx
+
+freebasic dssound.bi not impletment completed part of SoundFX
+
