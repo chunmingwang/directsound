@@ -39,5 +39,5 @@ This project needs to rely on MDINotepad/text.bi
 
 ## soundfx
 
-freebasic dssound.bi not impletment completed part of SoundFX
+freebasic dssound.bi(winlibs-gcc-9.3.0) doesn't implement completed part of SoundFX
 
