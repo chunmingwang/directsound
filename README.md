@@ -40,5 +40,6 @@ This project needs to rely on MDINotepad/text.bi
 ## soundfx
 
 freebasic dssound.bi(winlibs-gcc-9.3.0) doesn't implement completed part of SoundFX
+
 ![image](https://github.com/chunmingwang/directsound/assets/35757455/1f617dd1-6bc8-43d1-b4d7-4742ce51aecf)
 
