@@ -7,19 +7,19 @@ directsound example for VisualFBEditor
 
 This project needs to rely on MDINotepad/text.bi
 
-![capturesound](https://github.com/chunmingwang/directsound/assets/35757455/482a672e-cdd3-453a-9e61-61c964a5423c)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/c487c119-275b-4f94-b376-a31b461fc226)
 
 ## enumdevices
 
-![enumdevices](https://github.com/chunmingwang/directsound/assets/35757455/903367a2-9249-444e-b5ca-c9cd9ae17843)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/fa39b9fd-d07a-428b-a394-db12e821a4b3)
 
 ## fullduplexfilter
 
-![fullduplexfilter](https://github.com/chunmingwang/directsound/assets/35757455/48874699-e9db-4592-af8e-323e6703b189)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/5e2d2397-290a-4293-b1de-d40039ab0d7c)
 
 ## wavegenerator
 
-![wavegenerator](https://github.com/chunmingwang/directsound/assets/35757455/31fd9666-c981-4098-a63d-5310f60ec304)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/4f642fb1-bdf2-4145-beac-680dc3086d2e)
 
 1. sin wave
 
