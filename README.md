@@ -1,5 +1,4 @@
-# directsound preview
-Still under construction
+# directsound
 
 directsound example for VisualFBEditor
 
@@ -23,19 +22,19 @@ This project needs to rely on MDINotepad/text.bi
 
 1. sin wave
 
-![wave_sin](https://github.com/chunmingwang/directsound/assets/35757455/e6938cb9-12c2-4e87-beaa-1b3d00c5f750)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/8550891f-06a7-45c4-87fc-efca372086d5)
 
 2. square wave
 
-![wave_square](https://github.com/chunmingwang/directsound/assets/35757455/13b96876-3b3c-4a26-8eb0-6718563ec274)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/0478c9c8-185e-4473-aa83-40569b57773a)
 
 3. sawtooth wave
 
-![wave_sawtooth](https://github.com/chunmingwang/directsound/assets/35757455/1360b70f-fbc9-4b16-ac70-23ed46eb5d16)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/a5317f71-f3d7-4fd8-ac05-19c8205b352c)
 
 4. triangular wave
 
-![wave_triangular](https://github.com/chunmingwang/directsound/assets/35757455/080d4c4b-f32f-45a2-b7f1-252e65a17abb)
+![image](https://github.com/chunmingwang/directsound/assets/35757455/c1460f3c-88c5-4a62-a29c-751222337f27)
 
 ## soundfx
 
